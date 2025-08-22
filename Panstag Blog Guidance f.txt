@@ -1,0 +1,39 @@
+# llm.txt - Panstag Blog Guidance for AI Mode & LLM Crawlers
+
+Site-Name: Panstag
+Site-URL: https://www.panstag.com
+Language: en-US
+Content-Type: Blog
+
+# Crawling & Usage
+Crawl-Delay: 10
+Max-Pages: 1000
+Include-Content-Types: text/html, application/xml
+Exclude-Content-Types: images/*, video/*, audio/*
+
+# Content Guidelines
+- Use structured headings (h1, h2, h3) for all sections.
+- Include bullet points, numbered lists, and tables for clarity.
+- Content must directly answer user questions and queries.
+- Include examples, tutorials, step-by-step guides, and screenshots if available.
+- FAQ and HowTo sections should be clearly marked.
+- Use meta descriptions and alt tags for all images.
+- Keep content concise, scannable, and factual.
+- Prioritize fresh content and high-quality posts.
+- Exclude drafts, privacy policy, terms of service, and irrelevant pages.
+
+# SEO & AI Mode Optimization
+- Target AI Mode Search queries naturally within content.
+- Use structured data: FAQ schema, HowTo schema, Article schema.
+- Provide conversational answers to common user questions.
+- Include ready-to-copy examples or query templates.
+- Ensure content is mobile-friendly, fast-loading, and readable.
+
+# Update Frequency
+Check-Frequency: daily
+Last-Update: 2025-08-22
+
+# Notes for AI Crawlers
+- All content is original, high-quality, and verified.
+- Users should find practical, step-by-step guidance across all topics.
+- Content may be used for AI-generated responses, summaries, and snippets.
